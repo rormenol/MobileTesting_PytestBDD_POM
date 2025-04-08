@@ -19,6 +19,8 @@ You can watch the video **BreeMobileApp_Automation_compressed.mp4** to see how i
 
 or with this link: <a href="https://github.com/rormenol/MobileTesting_PytestBDD_POM/blob/main/MobileApp_PytestBDD_Automation.mp4">Click to watch this demo</a>
 
+or with this gif: ![Demo Video](./assets/MobileApp_PytestBDD_Automation.gif)
+
 or playing this: 
 [![Demo Video](./assets/PytestBDD.png)](https://youtu.be/9yzkFZmIGMg)
 
