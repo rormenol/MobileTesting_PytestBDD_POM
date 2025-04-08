@@ -16,3 +16,6 @@ pipenv shell
 ```
 
 You can watch the video **BreeMobileApp_Automation_compressed.mp4** to see how it works.
+
+or playing this: 
+[![Demo Video](./thumbnail.png)](https://youtu.be/9yzkFZmIGMg)
